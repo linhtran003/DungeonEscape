@@ -1,0 +1,11 @@
+Remaining party members:
+linh
+2
+wr
+q
+q
+
+Number of rooms cleared: 0
+Number of gold pieces remaining: 100
+Number of treasure items: 0
+Number of monsters defeated: 0

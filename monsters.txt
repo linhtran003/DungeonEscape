@@ -1,0 +1,31 @@
+Animated Armor,1
+Bugbear,1
+Harpy,1
+Scarecrow,1
+David S. Pumpkins,1
+Bumjeepers the Rusty Pig,1
+Minotaur,2
+Owlbear,2
+Banshee,2
+Wereboar,2
+Germling,2
+Giant Tarantula,2
+Giant Crocodile,3
+Troll,3
+Hobgoblin Warlord,3
+Mammoth,3
+Hagen,3
+Lady Gaga,3
+Bradley Cooper,3
+Stone Giant,4
+Night Hag,4
+Assassin,4
+Hydra,4
+Snallygaster,4
+Cloud Giant,5
+Silver Dragon,5
+Vampire,5
+Lich,5
+Godzilla,5
+Gerrymander,5
+Sorcerer,6
